@@ -1,0 +1,35 @@
+{
+  "name": "glitch-dark",
+  "displayName": "Glitch Dark",
+  "description": "A glitchy dark theme",
+  "version": "6.6.67",
+  "publisher": "sidiousvic",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidiousvic/glitch-dark-vscode-theme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Hacker Theme",
+    "Cool Theme",
+    "Primary"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "icon": "glitchy.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Glitch Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sidious-color-theme.json"
+      }
+    ]
+  }
+}
