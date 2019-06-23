@@ -2,7 +2,7 @@
   "name": "glitch-dark",
   "displayName": "Glitch Dark",
   "description": "A glitchy dark theme",
-  "version": "6.6.67",
+  "version": "6.6.693",
   "publisher": "sidiousvic",
   "license": "SEE LICENSE IN LICENSE.md",
   "engines": {
@@ -28,7 +28,7 @@
       {
         "label": "Glitch Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Sidious-color-theme.json"
+        "path": "./themes/glitch-dark-color-theme.json"
       }
     ]
   }
